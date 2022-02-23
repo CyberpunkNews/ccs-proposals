@@ -54,7 +54,7 @@ This proposal is a funding request by Cyberpunk. It requests **1,420 PART per PA
 Cyberpunk is currently operating without funding and voluntarily as a hobby. This makes it incredibly complicated for Cyberpunk to execute his ideas and expand its operations, new relationships, communication, and marketing initiatives to benefit Particl community and ecosystem. This funding request serves as a solution to these problems. 
 Funding by the Particl community and team will provide freedom of action dependent only on PART value appreciation.
 
-**Cyberpunk is requesting 1,420 PART coins per PART value target achievement from the Particl community (team included) to fund Cyberpunk development of investor and user acquisition. The request covers all basic expenses for the estimated PART value achievement.**
+**Cyberpunk is requesting 1,420 PART coins per PART value target achievement from the Particl community (team included) to fund Cyberpunk development of investor and speculator acquisition. The request covers all basic expenses for the estimated PART value achievement.**
 
 ## Funding Distribution
 
@@ -64,11 +64,11 @@ Here are a few key points that provide more information about this initiative.
 
 * **Linkedin** - investor relations & strategic communications. 
 	
-	Key performance indicator - over 2 years acquired over 1,400 institutional investor network. Had PM interaction with most connections. Main objective is to establish a healthy over-the-counter (OTC) market for PART digital asset. 
+	Key performance indicator - over 2 years acquired over ~1,400 institutional investor network. Had PM interaction with most connections. Main objective is to establish a healthy over-the-counter (OTC) market for PART digital asset. 
 
 * **Memes** - production of image and video memes. 
 	
-	Key performance indicator - Cyberpunk produced a lot of Particl - related image and video memes. Had many inquiries from Particl community members to manage Particl official social media channels (not an objective).
+	Key performance indicator - Cyberpunk produced a lot of Particl - related image and video assets. Had many inquiries from Particl community members to manage Particl official social media channels (not an objective).
 
 * **Other** - increasing brand awareness across various digital channels are key elements for driving online searches. It's important to have a constant flow of introductions to Particl everywhere possible. 
 
@@ -110,7 +110,7 @@ This proposal suggests deploying and then actively managing the initiative for s
 
 * Create and manage a strong reputation by demonstrating consistent and clear communication.
 
-* Manage investor relations, anticipate and address investor and analyst issues. Build relationships, respond in a timely manner to analysts’ questions, and gain a better understanding of top investors’ behaviors in Crypto Industry.
+* Manage investor relations, anticipate and address investor and analyst issues. Build relationships, respond in a timely manner to analysts’ questions, and gain a better understanding of top investors’ behaviors.
 
 * Inform and engage worldwide audiences through digital channels and other communications strategies and tactics.
 
@@ -126,7 +126,7 @@ What's being proposed here is provided as an entirely independent initiative. It
 
 All forms of capital investment are invariably associated with a certain risk. All projects are planned for the future and are likely to be altered to a larger or smaller extent; therefore, they are inevitably bound by uncertainty and risk. Every project task is affected by some sort of risk, which can cause deviation from the planned course of execution and actual schedules.
 
-Risks for proposal contributors are mitigated by proposed PART value milestone achievements. Successful Cyberpunk work should reflect a positive PART value and volume increase. When a certain milestone is achieved funds should be unlocked to fund the proposal, ensuring successful execution. 
+Risks for proposal contributors are mitigated by proposed PART value milestone achievements. Successful Cyberpunk work should reflect a positive PART value and volume increase. When a certain milestone is achieved funds should be unlocked to ensure successful proposal execution. 
 
 # Force Majeure
 
